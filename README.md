@@ -31,13 +31,11 @@ Connect-L is a modified version of Connect-4 where players aim to form an "L" sh
 ## How to Run
 Compile all Java files:
 
-bash
 ```
 javac *.java
 ```
 Run the game:
 
-bash
 ```
 java Game
 ```
